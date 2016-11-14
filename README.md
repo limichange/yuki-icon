@@ -1,5 +1,6 @@
-# yuki-icon
-icons
+# Yuki Icon
+
+
 
 <img width="64px" src="https://raw.githubusercontent.com/limichange/yuki-icon/master/png/1.png"/>
 <img width="64px" src="https://raw.githubusercontent.com/limichange/yuki-icon/master/png/2.png"/>
