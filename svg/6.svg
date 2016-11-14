@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" fill="#000000">
+            <path d="M41,71.0006014 L41,171.36037 L63.790525,147.888983 L104.148785,183.904956 L166.999484,111.196384 L215,160.223023 L215,71.0006014 C215,66.5818692 211.417552,63 206.995766,63 L49.0042336,63 C44.5780079,63 41,66.5783595 41,71.0006014 Z M21,71.0006014 C21,55.5362963 33.5286814,43 49.0042336,43 L206.995766,43 C222.462078,43 235,55.5350046 235,71.0006014 L235,184.999399 C235,200.463704 222.471319,213 206.995766,213 L49.0042336,213 C33.5379224,213 21,200.464995 21,184.999399 L21,71.0006014 Z" id="Rectangle-3"></path>
+            <circle id="Oval-3" cx="91.5" cy="102.5" r="20.5"></circle>
+        </g>
+    </g>
+</svg>
